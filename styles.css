@@ -1,8 +1,8 @@
 
 .holder{
 	display:grid;
-	grid-template-row:repeat (2 , 100px);
-	grid-template-column:repeat (2 , 100px);
+	grid-template-row:repeat (100px , 100px);
+	grid-template-column:repeat (100px , 100px);
 	grid-gap:0;
 }
 /* Your CSS Code here. */
